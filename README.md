@@ -1,5 +1,5 @@
 # Bubblegum-Themed Calculator
-<a href="https://amy0thompson.github.io/calculator/">View here!</a>
+<a href="https://amy0thompson.github.io/calculator/">Link to page</a>
 <h4>Functions:</h4>
 <ul>
   <li>Addition</li>
