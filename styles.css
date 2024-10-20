@@ -42,10 +42,10 @@ body {
 button {
     width: 100px;
     height: 100px;
-    border-radius: 20px;
+    border-radius: 25px;
     color: white;
     background-color: rgb(192, 0, 74);
-    font-size: 50px;
+    font-size: 60px;
     font-family: "Afacad Flux", sans-serif;
     cursor: pointer;
 }
