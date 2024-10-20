@@ -7,27 +7,17 @@ body {
     background-size: cover;
 }
 
-/*media queries*/
-@media screen and (min-width: 1024px){
-    }
-    
-    @media screen and (min-width : 768px) and (max-width : 1023px){
-    }
-
-    @media screen and (min-width : 0px) and (max-width : 767px){
-    }
-
 #calculator {
     font-family: "Afacad Flux", sans-serif;
     background-color: rgb(236, 82, 146);
     border-radius: 15px;
-    max-width: 500px;
+    max-width: 55vh;
     overflow: hidden;
     border-style: solid;
     border-color: black;
     margin: auto;
-
 }
+
 
 #display {
     width: 100%;
