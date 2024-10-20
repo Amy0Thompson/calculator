@@ -7,19 +7,14 @@ body {
     background-size: cover;
 }
 
-/*media quieres####*/
+/*media queries*/
 @media screen and (min-width: 1024px){
-    /*Style*/
     }
     
-    /*###Tablet(medium)###*/
     @media screen and (min-width : 768px) and (max-width : 1023px){
-    /*Style*/
     }
-    
-    /*### Smartphones (portrait and landscape)(small)### */
+
     @media screen and (min-width : 0px) and (max-width : 767px){
-    /*Style*/
     }
 
 #calculator {
