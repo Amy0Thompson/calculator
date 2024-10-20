@@ -1,8 +1,4 @@
 # Bubblegum-Themed Calculator
-<style> h1 {
-  color: pink;
-}
-</style>
 <h4>Functions:</h4>
 <ul>
   <li>Addition</li>
