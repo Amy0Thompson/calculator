@@ -11,7 +11,7 @@ body {
     font-family: "Afacad Flux", sans-serif;
     background-color: rgb(236, 82, 146);
     border-radius: 15px;
-    max-width: 55vh;
+    max-width: 500px;
     overflow: hidden;
     border-style: solid;
     border-color: black;
