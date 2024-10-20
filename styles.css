@@ -6,6 +6,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     align-items: center;
+    margin: 0;
 }
 
 
@@ -14,7 +15,7 @@ body {
     font-family: "Afacad Flux", sans-serif;
     background-color: rgb(236, 82, 146);
     border-radius: 15px;
-    max-width: 500px;
+    max-width: 50vh;
     overflow: hidden;
     border-style: solid;
     border-color: black;
