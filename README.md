@@ -10,5 +10,5 @@
   <li>Error</li>
   <li>Negative numbers</li>
 </ul>
-Best viewed on desktop, but viewable on smartphone & tablet.
+Best viewed on desktop site.
 <h6>Inspiration: <a href="https://www.youtube.com/watch?v=I5kj-YsmWjM">Bro Code</a></h6>
