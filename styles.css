@@ -1,24 +1,36 @@
 body {
-    height: 100vh;
     display: flex;
     justify-content: center;
+    height: 100vh;
     background-image: url(https://media.istockphoto.com/photos/pink-gum-balls-picture-id173871978?k=20&m=173871978&s=612x612&w=0&h=SFUINd8F16BYhyIPw-WJbPFyKMmTaNAmQAILVP8IlH0=);
     background-repeat: no-repeat;
     background-size: cover;
-    align-items: center;
-    margin: 0;
 }
 
-
+/*media quieres####*/
+@media screen and (min-width: 1024px){
+    /*Style*/
+    }
+    
+    /*###Tablet(medium)###*/
+    @media screen and (min-width : 768px) and (max-width : 1023px){
+    /*Style*/
+    }
+    
+    /*### Smartphones (portrait and landscape)(small)### */
+    @media screen and (min-width : 0px) and (max-width : 767px){
+    /*Style*/
+    }
 
 #calculator {
     font-family: "Afacad Flux", sans-serif;
     background-color: rgb(236, 82, 146);
     border-radius: 15px;
-    max-width: 50vh;
+    max-width: 500px;
     overflow: hidden;
     border-style: solid;
     border-color: black;
+    margin: auto;
 
 }
 
