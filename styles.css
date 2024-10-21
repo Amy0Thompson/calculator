@@ -15,6 +15,7 @@ body {
     background-color: rgb(236, 82, 146);
     border-radius: 15px;
     max-width: 500px;
+    max-length: 100%;
     overflow: hidden;
     margin: auto;
     border-style: solid;
